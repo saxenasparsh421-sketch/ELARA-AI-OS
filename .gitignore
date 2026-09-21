@@ -6,9 +6,11 @@ __pycache__/
 # Virtual environments
 jarvis_env/
 venv/
+.venv/
 
 # Environment files
 .env
+.env.*
 
 # VS Code
 .vscode/
@@ -29,3 +31,17 @@ Desktop.ini
 
 # macOS
 .DS_Store
+
+# Local / training files
+data/
+models/
+wakeword_training/
+
+# Local AI models and data
+models/
+piper-sample-generator/models/
+wakeword_training/
+data/
+
+# Local backup
+gui/dashboard_backup.py

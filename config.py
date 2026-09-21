@@ -1,2 +1,2 @@
 APP_NAME = "JARVIS OS"
-VERSION = "1.0.0"
+VERSION = "JARVIS MARK 1 - Phase 1 Stable"

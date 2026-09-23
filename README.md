@@ -54,7 +54,7 @@ This feature is currently being tested privately and may be expanded in a future
 ## Project
 
 - GitHub: https://github.com/saxenasparsh421-sketch/ELARA-AI-OS
-- Official Website: Coming soon
+- Official Website: https://saxenasparsh421-sketch.github.io/elara-ai-os-website
 
 ## Creator
 

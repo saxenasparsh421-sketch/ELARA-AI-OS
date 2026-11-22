@@ -1,0 +1,19 @@
+ELARA AI & OS - Confirmed base dependencies
+
+Python package versions recorded in the existing environment.
+
+python-dotenv==1.2.3
+faster-whisper==1.2.1
+openai==3.13.0
+openwakeword==0.6.0
+Pillow==12.3.0
+PySide6==6.11.1
+mediapipe==1.0.1
+numpy==2.2.6
+edge-tts==7.2.8
+pygame==2.6.1
+pytesseract==0.3.13
+requests==2.34.2
+sounddevice==0.5.5
+tkintermapview==1.30
+opencv-python==5.0.0.93

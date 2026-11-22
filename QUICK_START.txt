@@ -1,0 +1,97 @@
+ELARA — QUICK START
+
+Welcome to ELARA.
+
+This guide helps you download the ELARA repository and prepare its basic Python environment.
+
+---
+
+WINDOWS 10 / 11
+
+REQUIREMENTS:
+
+- Git
+- Python
+- Internet connection
+
+1. Check installations:
+
+git --version
+python --version
+
+2. Download ELARA:
+
+git clone https://github.com/saxenasparsh421-sketch/ELARA-AI-OS.git
+
+3. Open the project folder:
+
+cd ELARA-AI-OS
+
+4. Create a virtual environment:
+
+python -m venv .venv
+
+5. Activate the environment:
+
+.venv\Scripts\activate
+
+---
+
+ANDROID TERMUX
+
+REQUIREMENTS:
+
+- Termux
+- Internet connection
+
+1. Update Termux:
+
+pkg update && pkg upgrade
+
+2. Install Git and Python:
+
+pkg install git python
+
+3. Download ELARA:
+
+git clone https://github.com/saxenasparsh421-sketch/ELARA-AI-OS.git
+
+4. Open the project folder:
+
+cd ELARA-AI-OS
+
+5. Create a virtual environment:
+
+python -m venv .venv
+
+6. Activate the environment:
+
+source .venv/bin/activate
+
+---
+
+IMPORTANT NOTES
+
+- ELARA is under active development.
+- Windows is the primary desktop development target.
+- Termux support is experimental and currently limited to source and environment preparation.
+- The current requirements.txt is empty.
+- A complete, verified dependency installation process is not yet available.
+- Full desktop application startup has not been certified through this guide.
+- Do not assume that Windows desktop features will work on Android.
+
+---
+
+SECURITY
+
+Never upload API keys, passwords, access tokens, or private configuration files to GitHub.
+
+Keep your credentials private.
+
+---
+
+REPOSITORY
+
+https://github.com/saxenasparsh421-sketch/ELARA-AI-OS
+
+ELARA
